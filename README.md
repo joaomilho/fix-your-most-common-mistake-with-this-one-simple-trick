@@ -14,11 +14,11 @@ Suggested by [rauchy](https://github.com/rauchy):
 
 
 ###### JS
-- [Solving callback hell with async](http://el-tramo.be/blog/async-monad) (Explains how async solves callback hell)
-- [Fantasy land - Algebraic types for ES6](http://github.com/fantasyland/fantasy-land)
-- [Fantasy do - Implements Haskell's do on ES6](http://github.com/russellmcc/fantasydo)
+- [Solving callback hell with async](http://el-tramo.be/blog/async-monad)
+- [Fantasy land - Algebraic types for ES6](https://github.com/fantasyland/fantasy-land)
+- [Fantasy do - Implements Haskell's do on ES6](https://github.com/russellmcc/fantasydo)
 - [ECMA's Enumerate specs for es6](http://ecma-international.org/ecma-262/6.0)
-- [folktalejs.org](folktalejs.org), [cwmyers.github.io/monet.js](cwmyers.github.io/monet.js) (Some monads for JS, fantasy-land compliant) 
+- Monad implementations: [Folktalejs](http://folktalejs.org) & [Monet](http://cwmyers.github.io/monet.js)
 
 ###### Haskell
 - [Erik Meijer explains Haskell’s IO, around 22’](http://youtube.com/watch?v=z0N1aZ6SnBk)
