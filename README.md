@@ -3,24 +3,24 @@
 #### resources
 
 ###### Ruby
-- [devblog.avdi.org/2011/05/30/null-objects-and-falsiness](devblog.avdi.org/2011/05/30/null-objects-and-falsiness) (NullObject pattern in Ruby)
-- [github.com/pzol/monadic](github.com/pzol/monadic) (Some monads for Ruby)
-- [github.com/rap1ds/ruby-possibly](github.com/rap1ds/ruby-possibly) (Maybe only)
+- [Avdi Grim's article on NullObject pattern in Ruby](http://devblog.avdi.org/2011/05/30/null-objects-and-falsiness)
+- [Monadic gem](http://github.com/pzol/monadic) (Some monads for Ruby)
+- [Ruby Possibly gem](http://github.com/rap1ds/ruby-possibly) (Maybe only)
 
 Suggested by [rauchy](https://github.com/rauchy):
-- [https://www.youtube.com/watch?v=J1jYlPtkrqQ](https://www.youtube.com/watch?v=J1jYlPtkrqQ)
-- [https://github.com/tomstuart/monads](https://github.com/tomstuart/monads)
-- [http://www.confidentruby.com/](http://www.confidentruby.com/)
+- [Tom Stuart presentation on monads in Ruby](https://www.youtube.com/watch?v=J1jYlPtkrqQ)
+- [github.com/tomstuart/monads](https://github.com/tomstuart/monads)
+- [Confident Ruby](http://www.confidentruby.com/)
 
 
 ###### JS
-- [el-tramo.be/blog/async-monad](el-tramo.be/blog/async-monad) (Explains how async solves callback hell)
-[github.com/fantasyland/fantasy-land](github.com/fantasyland/fantasy-land) (Algebraic types for ES6)
-- [github.com/russellmcc/fantasydo](github.com/russellmcc/fantasydo) (Do notation for fantasy-land) - [ecma-international.org/ecma-262/6.0](ecma-international.org/ecma-262/6.0) (Enumerate specs)
+- [Solving callback hell with async](http://el-tramo.be/blog/async-monad) (Explains how async solves callback hell)
+- [Fantasy land - Algebraic types for ES6](http://github.com/fantasyland/fantasy-land)
+- [Fantasy do - Implements Haskell's do on ES6](http://github.com/russellmcc/fantasydo)
+- [ECMA's Enumerate specs for es6](http://ecma-international.org/ecma-262/6.0)
 - [folktalejs.org](folktalejs.org), [cwmyers.github.io/monet.js](cwmyers.github.io/monet.js) (Some monads for JS, fantasy-land compliant) 
 
 ###### Haskell
-- [youtube.com/watch?v=z0N1aZ6SnBk](youtube.com/watch?v=z0N1aZ6SnBk) (Erik Meijer explains Haskell’s IO, around 22’)
-- [dev.stephendiehl.com/hask](dev.stephendiehl.com/hask) (Best intro to modern day Haskell)
-- [schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell/10_Error_Handling](schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell/10_Error_Handling) (Error handling)
-
+- [Erik Meijer explains Haskell’s IO, around 22’](http://youtube.com/watch?v=z0N1aZ6SnBk)
+- [Hask, best intro to modern day Haskell tools](http://dev.stephendiehl.com/hask)
+- [schoolofhaskell.com's Error handling](http://schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell/10_Error_Handling)
